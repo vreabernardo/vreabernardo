@@ -1,4 +1,6 @@
 [![GitHub Streak](https://streak-stats.demolab.com/?user=vreabernardo)](https://git.io/streak-stats)
+![71bffc61-2d8b-42d6-b4e1-2396b40e586d_text](https://github.com/vreabernardo/vreabernardo/assets/45080358/67c03e71-27dc-44ae-8b4d-1cd32fc3ccfd)
+
 <!--
 **vreabernardo/vreabernardo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
